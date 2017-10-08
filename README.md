@@ -1,0 +1,2 @@
+# edytorTekstu
+pierwszy edytor tekstu
